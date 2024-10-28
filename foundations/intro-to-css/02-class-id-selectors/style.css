@@ -1,0 +1,19 @@
+.pink-one {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.pink-one.two {
+    font-size: 24px;
+}
+
+#blue-one {
+    color:rgb(0,0,255);
+    font-size: 36px;
+}
+
+#l-green-one {
+    background-color: rgba(0,255,0, 0.6);
+    font-size: 24px;
+    font-weight: bold;
+}
